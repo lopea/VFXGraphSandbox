@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: cbfe36cfddfde964d9dfce63a355d5dd
   - enabled: 1
-    path: Assets/temp.unity
+    path: Assets/sandboxes/StatueFirework/temp.unity
     guid: 99e2c25d12e702a4cb48b0edb18a7583
   m_configObjects: {}
